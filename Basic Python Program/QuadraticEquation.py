@@ -1,0 +1,7 @@
+a= int(input("enter the value"))
+b= int(input("enter the value"))
+c= int(input("enter the value"))
+D = ((b*b)-(4)*(a)*(c))**(1/2)
+Y= (-b+D)/(2*a)
+O= (-b-D)/(2*a)
+print(Y,O)

@@ -1,0 +1,6 @@
+a= int(input("enter X1 value"))
+b= int(input("enter X2 value"))
+c= int(input("enter Y1 value"))
+d= int(input("enter Y2 value"))
+Y= float(((b-a)*(b-a)+(d-c)*(d-c))**(1/2))
+print(Y) 
